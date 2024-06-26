@@ -5,3 +5,10 @@ C:\Users\Orange\source\repos\first lecture 25 jun\first lecture 25 jun\obj\Debug
 C:\Users\Orange\source\repos\first lecture 25 jun\first lecture 25 jun\obj\Debug\first lecture 25 jun.csproj.CoreCompileInputs.cache
 C:\Users\Orange\source\repos\first lecture 25 jun\first lecture 25 jun\obj\Debug\first lecture 25 jun.exe
 C:\Users\Orange\source\repos\first lecture 25 jun\first lecture 25 jun\obj\Debug\first lecture 25 jun.pdb
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\bin\Debug\first lecture 25 jun.exe.config
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\bin\Debug\first lecture 25 jun.exe
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\bin\Debug\first lecture 25 jun.pdb
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\obj\Debug\first lecture 25 jun.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\obj\Debug\first lecture 25 jun.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\obj\Debug\first lecture 25 jun.exe
+C:\Users\Orange\Desktop\C-Tasks\25.06.2024\first lecture 25 jun\obj\Debug\first lecture 25 jun.pdb

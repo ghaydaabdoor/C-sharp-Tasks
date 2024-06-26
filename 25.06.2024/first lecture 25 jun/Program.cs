@@ -65,10 +65,11 @@ namespace first_lecture_25_jun
             for (int i = 0; i < 10; i++)
             {
                 Console.Write(arrayNew[i] + " ");
+                Console.WriteLine("_______________");
             }
-            Console.WriteLine("_______________");
 
             // Exercise 6
+            Console.WriteLine("Exercise 6");
             Console.WriteLine("Input 4 elements in the array to find their summation :");
             int[] arr = new int [4];
             int sum = 0;
@@ -78,13 +79,6 @@ namespace first_lecture_25_jun
                 sum += arr[i];
             }
             Console.WriteLine("Sum of all elements stored in the array is :" + sum);
-
-
-
-
-
-
-
         }
     }
 }
