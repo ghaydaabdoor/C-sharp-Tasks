@@ -1,0 +1,14 @@
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\bin\Debug\27-6.exe.config
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\bin\Debug\27-6.exe
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\bin\Debug\27-6.pdb
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\obj\Debug\27-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\obj\Debug\27-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\obj\Debug\27-6.exe
+C:\Users\Orange\Desktop\C-Tasks\27-6\27-6\obj\Debug\27-6.pdb
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\bin\Debug\27-6.exe.config
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\bin\Debug\27-6.exe
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\bin\Debug\27-6.pdb
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\obj\Debug\27-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\obj\Debug\27-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\obj\Debug\27-6.exe
+C:\Users\Orange\Desktop\C-Tasks\27-6-2024\27-6\obj\Debug\27-6.pdb

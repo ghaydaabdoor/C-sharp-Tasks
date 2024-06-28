@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\27-6\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Tasks\\27-6-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D619E166-1EB5-4266-A123-BB0808BFAA35}|27-6\\27-6.csproj|c:\\users\\orange\\source\\repos\\27-6\\27-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D619E166-1EB5-4266-A123-BB0808BFAA35}|27-6\\27-6.csproj|c:\\users\\orange\\desktop\\c-tasks\\27-6-2024\\27-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D619E166-1EB5-4266-A123-BB0808BFAA35}|27-6\\27-6.csproj|solutionrelative:27-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\27-6\\27-6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Tasks\\27-6-2024\\27-6\\Program.cs",
               "RelativeDocumentMoniker": "27-6\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\27-6\\27-6\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Tasks\\27-6-2024\\27-6\\Program.cs",
               "RelativeToolTip": "27-6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T13:00:30.9Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
