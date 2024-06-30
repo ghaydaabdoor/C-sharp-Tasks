@@ -129,8 +129,8 @@ namespace _27_6
 
             /* Task 5 
             Write a program in C# to display the n terms of odd number and their sum from [1- 100 ]. 
-	        Test Data
-         	The odd numbers are1 3 5 7 9 11 13 15 17 19……
+            Test Data
+            The odd numbers are1 3 5 7 9 11 13 15 17 19……
             The Sum of odd Numbers is: …...
             */
             Console.WriteLine("Task 5");
@@ -187,7 +187,7 @@ namespace _27_6
             int numb = 1;
             for (int i = 0; i < 4; i++)
             {
-                for(int j = 0; j < i+1; j++)
+                for (int j = 0; j < i + 1; j++)
                 {
                     Console.Write($"{numb} ");
                     numb++;
@@ -195,6 +195,7 @@ namespace _27_6
                 Console.WriteLine();
             }
             Console.WriteLine("--------------------------------------------------------------------");
+
 
 
 
