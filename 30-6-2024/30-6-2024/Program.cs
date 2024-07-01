@@ -20,18 +20,16 @@ namespace _30_6_2924
             Console.WriteLine($"average is : {(double)sum / 10}");
         }
 
-
         // Task 3
-        public static int GetYears(int[] yearsArr)
+        public static void GetYears(int[] yearsArr)
         {
             foreach (int year in yearsArr)
             {
                 if (year > 1950)
                 {
                     Console.WriteLine(year);
-                };
+                }
             }
-            return 0;
         }
 
         // Task 4
@@ -44,20 +42,43 @@ namespace _30_6_2924
         // Task 5
         public class PersonalInfo
         {
-            public int age = 18;
-            public string gender = "Female";
-            public string name = "Ghaydaa";
-            public string email = "example@example.com";
-            public int ID = 999999999;
-            public string phone = "0777777777";
+            public int age;
+            public string gender;
+            public string name;
+            public string email;
+            public int ID;
+            public string phone;
+
+            public PersonalInfo()
+            {
+                age = 18;
+                gender = "Female";
+                name = "Ghaydaa";
+                email = "example@example.com";
+                ID = 999999999;
+                phone = "0787878787";
+
+                Console.WriteLine("Default:");
+                Console.WriteLine($"Name: {name}, Age: {age}, Gender: {gender}, Email: {email}, ID: {ID}, Phone: {phone}");
+            }
+
             public PersonalInfo(int age, string gender, string name, string email, int ID, string phone)
             {
-                if (age < 18 || age > 60) { Console.WriteLine("Age must be between 18 and 60"); }
-                else { this.age = age ; };
+                if (age < 18 || age > 60)
+                {
+                    Console.WriteLine("Age must be between 18 and 60");
+                    this.age = 18;
+                }
+                else
+                {
+                    this.age = age;
+                }
+
                 this.gender = gender;
-                this.name=name;
-                this.email=email;
-                this.ID=ID;
+                this.name = name;
+                this.email = email;
+                this.ID = ID;
+
                 if (phone.StartsWith("077") || phone.StartsWith("078") || phone.StartsWith("079"))
                 {
                     this.phone = phone;
@@ -65,11 +86,12 @@ namespace _30_6_2924
                 else
                 {
                     Console.WriteLine("Phone number must start with 077, 078, or 079.");
+                    this.phone = "0770000000";
                 }
+
+                Console.WriteLine($"Name: {name}, Age: {this.age}, Gender: {gender}, Email: {email}, ID: {ID}, Phone: {this.phone}");
             }
         }
-
-
 
         static void Main(string[] args)
         {
@@ -86,7 +108,6 @@ namespace _30_6_2924
             sumFunction();
             Console.WriteLine("-----------------------------");
 
-
             /* 2-	Write a program in C to display the cube of the number up to given an integer.
             Test Data:
             Input number of terms : 5
@@ -102,10 +123,10 @@ namespace _30_6_2924
             int termsNum = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i <= termsNum; i++)
             {
-                Console.WriteLine($"Number is : {i} and cube of {i} is : {Math.Pow(i, 3)}");
+                int cubicNumber = i * i * i;
+                Console.WriteLine($"Number is : {i} and cube of {i} is : {cubicNumber}");
             }
             Console.WriteLine("-----------------------------");
-
 
             /* Write a program in C# return only numbers in the years array greater than 1950.
             const years = [1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020]
@@ -115,7 +136,6 @@ namespace _30_6_2924
             int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
             GetYears(years);
             Console.WriteLine("-----------------------------");
-
 
             /* Create a function that takes the age in years and returns the age in days.
              */
@@ -136,20 +156,8 @@ namespace _30_6_2924
             Don’t forget the default value. */
 
             Console.WriteLine("Exercise 5");
-            PersonalInfo Ali=new PersonalInfo(30,"Male","Ali","Ali99@gmail.com",99999999,"0787574101");
-            Console.WriteLine($"Name: {Ali.name}, Age: {Ali.age}, Gender: {Ali.gender}, Email: {Ali.email}, ID: {Ali.ID}, Phone: {Ali.phone}");
-
-
-
-
-
-
-
-
-
-
-
-
+            PersonalInfo example = new PersonalInfo();
+            PersonalInfo Ali = new PersonalInfo(25, "Male", "Ali", "Ali99@yahoo.com", 123, "0781234567");
         }
     }
 }
