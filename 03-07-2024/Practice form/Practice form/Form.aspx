@@ -35,13 +35,13 @@
                     <legend class="col-form-label col-sm-2 pt-0">Gender</legend>
                     <div class="col-sm-10">
                         <div class="form-check form-check-inline">
-                            <asp:RadioButton ID="male" CssClass="form-check-input" GroupName="gender" runat="server" />
+                            <asp:RadioButton ID="male" GroupName="gender" runat="server" />
                             <label class="form-check-label" for="male">
                                 Male
                             </label>
                         </div>
                         <div class="form-check form-check-inline">
-                            <asp:RadioButton ID="female" CssClass="form-check-input" GroupName="gender" runat="server" />
+                            <asp:RadioButton ID="female" GroupName="gender" runat="server" />
                             <label class="form-check-label" for="female">
                                 Female
                             </label>
@@ -54,15 +54,15 @@
                 <label class="col-sm-2 col-form-label">Skills</label>
                 <div class="col-sm-10">
                     <div class="form-check form-check-inline">
-                        <asp:CheckBox ID="C" CssClass="form-check-input" runat="server" />
+                        <asp:CheckBox ID="C" runat="server" />
                         <label class="form-check-label" for="chkC">C</label>
                     </div>
                     <div class="form-check form-check-inline">
-                        <asp:CheckBox ID="Cplus" CssClass="form-check-input" runat="server" />
+                        <asp:CheckBox ID="Cplus" runat="server" />
                         <label class="form-check-label" for="chkCpp">C++</label>
                     </div>
                     <div class="form-check form-check-inline">
-                        <asp:CheckBox ID="Csharp" CssClass="form-check-input" runat="server" />
+                        <asp:CheckBox ID="Csharp" runat="server" />
                         <label class="form-check-label" for="chkCsharp">C#</label>
                     </div>
                 </div>

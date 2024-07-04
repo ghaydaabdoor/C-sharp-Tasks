@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CA8DC-4B19-472C-AAE4-1304B8B1F275}|Practice form\\Practice form.csproj|c:\\users\\orange\\desktop\\c-tasks\\03-07-2024\\practice form\\practice form\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5CA8DC-4B19-472C-AAE4-1304B8B1F275}|Practice form\\Practice form.csproj|solutionrelative:practice form\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CA8DC-4B19-472C-AAE4-1304B8B1F275}|Practice form\\Practice form.csproj|C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\practice form\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA5CA8DC-4B19-472C-AAE4-1304B8B1F275}|Practice form\\Practice form.csproj|solutionrelative:practice form\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\Practice form\\Form.aspx.cs",
+              "RelativeDocumentMoniker": "Practice form\\Form.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\Practice form\\Form.aspx.cs",
+              "RelativeToolTip": "Practice form\\Form.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:49:08.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\Practice form\\Form.aspx",
+              "RelativeDocumentMoniker": "Practice form\\Form.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Tasks\\03-07-2024\\Practice form\\Practice form\\Form.aspx",
+              "RelativeToolTip": "Practice form\\Form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T12:23:33.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
